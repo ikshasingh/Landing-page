@@ -4,7 +4,7 @@ A modern, responsive, and clean landing page built using *HTML, CSS, and JavaScr
 
 ## 📸 Preview
 
-![Landing Page Preview](.photo.jpg) <!-- Replace with your actual image path or URL -->
+![project screenshot ](ss.png) <!-- Replace with your actual image path or URL -->
 
 ---
 
