@@ -26,6 +26,3 @@ A modern, responsive, and clean landing page built using *HTML, CSS, and JavaScr
 - Google Fonts (optional)
 - Font Awesome (optional)
 
----
-
-## 📁 Folder Structure
